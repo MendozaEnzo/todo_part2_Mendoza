@@ -1,0 +1,10 @@
+{
+    "host": "mysql-310fc016-itis-90b7.b.aivencloud.com",
+    "user": "avnadmin",
+    "password": "AVNS_-OlS6cYDBQvwMJspPym",
+    "database": "defaultdb",
+    "port": 24671,
+    "ssl": {
+        "ca":"./ca_Mendoza.pem"
+    }
+}
